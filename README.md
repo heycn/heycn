@@ -8,7 +8,7 @@
 
 <br>
 
-![starts](https://github-readme-stats.vercel.app/api?username=heycn&count_private=true&line_height=46&show_icons=true&border_radius=8&theme=vue-dark)
+![starts](https://github-readme-stats.vercel.app/api?username=heycn&count_private=true&line_height=32&show_icons=true&border_radius=8&theme=vue-dark)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heycn&langs_count=100&hide=ejs,css,html,scss,less&border_radius=8&theme=vue-dark)
 
 <br>
