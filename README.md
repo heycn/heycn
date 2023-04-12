@@ -1,15 +1,17 @@
+<p  align="center">
+  <img width="66%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</p>
+  
 <samp>
-  <h1 align="center">Hi, I am Heycn! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1></h1>
+  <h1 align="center">Hey, I am Heycn!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1></h1>
 </samp>
 
-<p align="center">
-  <samp>
-   A front-end developer
-  </samp>
-</p>
+<br>
 
-![starts](https://github-readme-stats.vercel.app/api?username=heycn&count_private=true&line_height=32&show_icons=true&border_radius=8)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heycn&langs_count=100&hide=css,html,scss,less&border_radius=8)
+![starts](https://github-readme-stats.vercel.app/api?username=heycn&count_private=true&line_height=32&show_icons=true&border_radius=8&theme=vue-dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heycn&langs_count=100&hide=ejs,css,html,scss,less&border_radius=8&theme=vue-dark)
+
+<br>
 
 <p align="center">
   <samp>
@@ -19,3 +21,5 @@
     <a href="https://twitter.com/heycn_112">Tweets</a>
   </samp>
 </p>
+
+<br>
