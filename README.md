@@ -6,10 +6,10 @@
   <h1 align="center">Hey, I am Heycn!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1></h1>
 </samp>
 
-<br>
+<!-- <br>
 
 ![starts](https://github-readme-stats.vercel.app/api?username=heycn&count_private=true&line_height=32&show_icons=true&border_radius=8&theme=vue-dark)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heycn&langs_count=100&hide=ejs,css,html,scss,less&border_radius=8&theme=vue-dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heycn&langs_count=100&hide=ejs,css,html,scss,less&border_radius=8&theme=vue-dark) -->
 
 <br>
 
