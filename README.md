@@ -1,6 +1,6 @@
-<p  align="center">
+<!-- <p  align="center">
   <img width="66%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</p>
+</p> -->
 
 <samp>
   <h1 align="center">Hi there，I'm Anan<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
